@@ -1,0 +1,4 @@
+queue_name : amq.gen-W3f-xhalKjgeHdq05fmwMQ
+ [*] Waiting for logs. To exit press CTRL+C
+ [x] b'second message'
+ [x] b'third message'
